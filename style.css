@@ -1,7 +1,7 @@
 body {
     font-family: helvetica, serif;
     font-size: 14px;
-    color: green;
+    color: navy;
 }
 
 h1 {
@@ -10,6 +10,6 @@ h1 {
 }
 
 p {
-    color: red;
+    color: green;
 }
 
