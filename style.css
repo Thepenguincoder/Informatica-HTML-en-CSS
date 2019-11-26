@@ -1,11 +1,12 @@
 body {
-    font-family: helvetica, serif;
+    font-family: serif;
     font-size: 14px;
     color: navy;
 }
 
 p {
     color: green;
+    text-transform: capitalize;
 }
 
 h1 {
