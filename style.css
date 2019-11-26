@@ -4,6 +4,10 @@ body {
     color: navy;
 }
 
+p {
+    color: green;
+}
+
 h1 {
     color: yellow;
     background-color: purple;
@@ -15,7 +19,9 @@ h2 {
     font-variant: small-caps;
 }
 
-p {
-    color: green;
+h3 {
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: line-trough;
 }
 
