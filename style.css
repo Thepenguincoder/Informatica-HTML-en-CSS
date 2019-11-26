@@ -9,19 +9,22 @@ p {
 }
 
 h1 {
+    font-size: 2.5em;
     color: yellow;
     background-color: purple;
 }
 
 h2 {
+    font-size: 2em;
     font-weight: bold;
     font-style: italic;
     font-variant: small-caps;
 }
 
 h3 {
+    font-size: 1.5em;
     text-decoration: overline;
     text-decoration: underline;
-    text-decoration: line-trough;
+    text-decoration: line-through;
 }
 
