@@ -1,10 +1,14 @@
 body {
-    font-size: 12px;
+    font-size: 14px;
     color: green;
 }
 
 h1 {
     color: yellow;
     background-color: purple;
+}
+
+p {
+    color: red;
 }
 
