@@ -9,6 +9,12 @@ h1 {
     background-color: purple;
 }
 
+h2 {
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
 p {
     color: green;
 }
