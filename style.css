@@ -56,3 +56,13 @@ a {
     color: red;
     background-color: #olive;
 }
+
+table {
+        padding: 5px;
+        border-style: dotted;
+        border-width: 10px;
+        margin: 5px;
+        background-color: #ccc;
+}
+        
+        
