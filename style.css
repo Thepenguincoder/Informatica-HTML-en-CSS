@@ -1,11 +1,11 @@
 body {
     font-family: serif;
-    font-size: 14px;
+    font-size: 18px;
     color: navy;
 }
 
 p {
-    color: green;
+    color: red;
     text-transform: capitalize;
 }
 
@@ -43,5 +43,5 @@ strong {
 
 a {
     font-size: 2em;
-    color: red;
+    color: green;
 }
