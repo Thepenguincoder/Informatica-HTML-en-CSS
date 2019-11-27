@@ -22,10 +22,10 @@ h2 {
     font-style: italic;
     font-variant: small-caps;
     background-color: #ccc;
-    padding: 20px;
-    margin: 40px;
+    padding: 2px;
+    margin: 2px;
     border-style: dashed;
-    border-width: 3px;
+    border-width: 0px;
     border-left-width: 6px;
     border-right-width: 6px;
     border-bottom-width: 9px;
@@ -58,11 +58,14 @@ a {
 }
 
 table {
-        padding: 5px;
+        padding: 20px;
         border-style: dotted;
         border-width: 10px;
-        margin: 5px;
+        margin: 100px;
         background-color: #ccc;
 }
-        
+
+form {
+       background-color: navy;
+}
         
