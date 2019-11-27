@@ -8,6 +8,7 @@ body {
 p {
     color: blue;
     text-transform: capitalize;
+    background-color: green;
 }
 
 h1 {
