@@ -23,11 +23,12 @@ h2 {
     font-variant: small-caps;
     background-color: #ccc;
     padding: 20px;
-    margin: 20px;
+    margin: 40px;
     border-style: dashed;
     border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
+    border-left-width: 6px;
+    border-right-width: 6px;
+    border-bottom-width: 9px;
     border-color: red;
 }
 
