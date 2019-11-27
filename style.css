@@ -6,7 +6,7 @@ body {
 }
 
 p {
-    color: green;
+    color: aqua;
     text-transform: capitalize;
 }
 
@@ -43,7 +43,7 @@ strong {
 }
 
 a {
-    font-size: 2em;
+    font-size: 1.5em;
     color: red;
     background-color: #f00000;
 }
