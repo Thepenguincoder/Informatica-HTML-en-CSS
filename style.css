@@ -2,7 +2,7 @@ body {
     font-family: serif;
     font-size: 14px;
     color: navy;
-    background-color: #00000f;
+    background-color: #00001f;
 }
 
 p {
@@ -45,5 +45,5 @@ strong {
 a {
     font-size: 1.5em;
     color: red;
-    background-color: #f00000;
+    background-color: #1f0000;
 }
