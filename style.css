@@ -6,7 +6,7 @@ body {
 }
 
 p {
-    color: aqua;
+    color: blue;
     text-transform: capitalize;
 }
 
@@ -29,7 +29,7 @@ h2 {
     border-left-width: 6px;
     border-right-width: 6px;
     border-bottom-width: 9px;
-    border-color: red;
+    border-color: green;
 }
 
 h3 {
@@ -54,7 +54,7 @@ strong {
 a {
     font-size: 1.5em;
     color: red;
-    background-color: #olive;
+    background-color: #green;
 }
 
 table {
@@ -66,6 +66,10 @@ table {
 }
 
 form {
-       background-color: navy;
+       background-color: aqua;
 }
-        
+
+li {
+    color: #900;
+    font-style: italic;
+}
