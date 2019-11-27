@@ -2,6 +2,7 @@ body {
     font-family: serif;
     font-size: 14px;
     color: navy;
+    background-color: #00000f;
 }
 
 p {
@@ -44,4 +45,5 @@ strong {
 a {
     font-size: 2em;
     color: red;
+    background-color: #f00000;
 }
