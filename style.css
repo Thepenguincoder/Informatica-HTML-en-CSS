@@ -21,6 +21,9 @@ h2 {
     font-weight: bold;
     font-style: italic;
     font-variant: small-caps;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
 }
 
 h3 {
